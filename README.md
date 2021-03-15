@@ -1,1 +1,1 @@
-# IBM-capstone
+# Berlin Housing \& Venues Clustering
